@@ -1,6 +1,9 @@
 # 💫 About Me:
 🔭 I’m currently working on Hostel Finder<br>👯 I’m looking to collaborate on JobMe<br>🤝 I’m looking for help with Learning<br>🌱 I’m currently learning Web Development<br>💬 Ask me about anything<br>⚡ Fun fact I am Funny
 
+---
+[![](https://visitcount.itsvg.in/api?id=surajdhami46&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/suraj-dhami-a3a84225a) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@surajdhami46) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCJUxsqy8e6RryPaCy0HlPHA) 
@@ -15,7 +18,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://visitcount.itsvg.in/api?id=surajdhami46&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
