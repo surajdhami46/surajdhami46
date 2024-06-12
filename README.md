@@ -1,5 +1,4 @@
-# 💫 About Me:
-🔭 I’m currently working on Hostel Finder<br>👯 I’m looking to collaborate on JobMe<br>🤝 I’m looking for help with Learning<br>🌱 I’m currently learning Web Development<br>💬 Ask me about anything<br>⚡ Fun fact I am Funny
+👋 Hi, I'm Suraj, a frontend developer with a passion for building intuitive and dynamic web applications. Skilled in HTML, CSS, JavaScript, and frameworks like React. Check out my projects and let's connect!
 
 ---
 [![](https://visitcount.itsvg.in/api?id=surajdhami46&icon=0&color=0)](https://visitcount.itsvg.in)
